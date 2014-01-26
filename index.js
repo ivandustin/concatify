@@ -1,0 +1,2 @@
+#! node
+require('./lib/concatify');

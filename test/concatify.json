@@ -1,0 +1,8 @@
+{
+	"filename": "file.txt",
+	"paths": [
+		"dir/file1.txt",
+		"dir/*",
+		"dir/dir1/*"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "concatify",
+	"version": "0.1.0",
+	"author": {
+		"name": "Ivan Dustin Bilon",
+		"email": "ivan22.dust@gmail.com"
+	},
+	"description": "Concatenate files from a given concatify.json",
+	"license": "MIT",
+	"preferGlobal": true,
+	"bin": {
+		"concatify": "index.js"
+	}
+}
